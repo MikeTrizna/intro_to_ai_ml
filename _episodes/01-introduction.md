@@ -4,6 +4,7 @@ teaching: 15
 exercises: 0
 questions:
 - "What will be covered in this lesson?"
+- "What will not be covered in this lesson?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
